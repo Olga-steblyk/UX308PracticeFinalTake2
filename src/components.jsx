@@ -45,7 +45,7 @@ function Question4(){
 function Question5(){
     return <section>
     4. Calculates pay raises for employees. Pay raises are based on status: Full Time ('F)' or Part Time ('P') and years of service
-    <h2>Results of pay raise function</h2>
+    <h2>Results of years and if they are leap years or not</h2>
     <p>pay_raise(2) == "{leap_year(4598)}"</p>
     <p>pay_raise(2) == "{leap_year(5678)}"</p>
     <p>pay_raise(2) == "{leap_year(3200)}"</p>
